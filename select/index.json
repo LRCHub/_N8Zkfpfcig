@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "base_track": "Flavor Of Life (Ballad Version / 2024 Mix)",
+  "base_artist": "Hikaru Utada",
+  "createdAt": "2025-12-06T08:33:24.958755Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Flavor Of Life (Ballad Version)",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/01_Flavor_Of_Life_(Ballad_Version)_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Flavor Of Life - Ballad Version",
+      "artist": "宇多田光",
+      "has_synced": true,
+      "path": "select/02_Flavor_Of_Life_-_Ballad_Version_宇多田光.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Flavor Of Life -Ballad Versio",
+      "artist": "宇多田光",
+      "has_synced": true,
+      "path": "select/03_Flavor_Of_Life_-Ballad_Versio_宇多田光.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Flavor Of Life - Ballad Version -",
+      "artist": "宇多田ヒカル",
+      "has_synced": false,
+      "path": "select/04_Flavor_Of_Life_-_Ballad_Version_-_宇多田ヒカル.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Flavor Of Life - Ballad Version",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/05_Flavor_Of_Life_-_Ballad_Version_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Flavor Of Life -Ballad Version-",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/06_Flavor_Of_Life_-Ballad_Version-_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Flavor of Life (ballad version)",
+      "artist": "宇多田ヒカル",
+      "has_synced": false,
+      "path": "select/07_Flavor_of_Life_(ballad_version)_宇多田ヒカル.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Flavor Of Life (Ballad Version)",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/08_Flavor_Of_Life_(Ballad_Version)_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Flavor Of Life -Ballad Version- (2024 Mix)",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/09_Flavor_Of_Life_-Ballad_Version-_(2024_Mix)_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "flavor of life ballad version",
+      "artist": "utada hikaru",
+      "has_synced": false,
+      "path": "select/10_flavor_of_life_ballad_version_utada_hikaru.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Flavor Of Life -Ballad Version-",
+      "artist": "宇多田ヒカル",
+      "has_synced": false,
+      "path": "select/11_Flavor_Of_Life_-Ballad_Version-_宇多田ヒカル.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Flavor Of Life (ballad version",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/12_Flavor_Of_Life_(ballad_version_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Flavor Of Life -Ballad Version-",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/13_Flavor_Of_Life_-Ballad_Version-_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Flavor Of Life (ballad version)",
+      "artist": "Hikaru Utada",
+      "has_synced": false,
+      "path": "select/14_Flavor_Of_Life_(ballad_version)_Hikaru_Utada.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Flavor Of Life - Ballad Version -",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/15_Flavor_Of_Life_-_Ballad_Version_-_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Flavor Of Life - Ballad Version -",
+      "artist": "宇多田光",
+      "has_synced": true,
+      "path": "select/16_Flavor_Of_Life_-_Ballad_Version_-_宇多田光.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Flavor Of Life -Ballad Version-",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_01_Flavor_Of_Life_-Ballad_Version-_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Flavor Of Life -Ballad Version-",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_02_Flavor_Of_Life_-Ballad_Version-_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Flavor Of Life -Ballad Version-",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_03_Flavor_Of_Life_-Ballad_Version-_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Flavor Of Life [Ballad Version]",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_04_Flavor_Of_Life_[Ballad_Version]_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Flavor Of Life -Ballad Version-",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_05_Flavor_Of_Life_-Ballad_Version-_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "Flavor Of Life -Ballad Version-",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_06_Flavor_Of_Life_-Ballad_Version-_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "Flavor Of Life -Ballad Version-",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_07_Flavor_Of_Life_-Ballad_Version-_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "Flavor Of Life (Ballad Ver.)",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_08_Flavor_Of_Life_(Ballad_Ver.)_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "Flavor Of Life - Ballad Version",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_09_Flavor_Of_Life_-_Ballad_Version_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "Flavor Of Life -Ballad Version- (2024 Mix)",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_10_Flavor_Of_Life_-Ballad_Version-_(2024_Mix)_宇多田_ヒカル.txt"
+    }
+  ]
+}
